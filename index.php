@@ -6,6 +6,9 @@ and open the template in the editor.
 -->
 <script>
     alert("salut");
+    function pute(){
+        alert("pas une ");
+    }
 </script>
 <html>
     <head>

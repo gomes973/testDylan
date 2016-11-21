@@ -15,7 +15,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "Hello World !";
-            
+            echo "Ceci est un echo";
         ?>
     </body>
 </html>
